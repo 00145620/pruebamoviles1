@@ -1,7 +1,7 @@
 version: '2.0'
 services:
   app:
-    container_name: todo-app
+    container_name: login-app
     restart: always
     build: .
     ports:
